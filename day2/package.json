@@ -1,0 +1,19 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "aoc2024 day 2",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node part1.js",
+    "debug": "node --inspect part1.js"
+  },
+  "author": "Batama",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "concurrently": "^9.1.0",
+    "eslint": "^9.16.0",
+    "globals": "^15.13.0"
+  }
+}
